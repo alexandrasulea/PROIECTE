@@ -1,0 +1,377 @@
+
+*** Running vivado
+    with args -log TESTENV.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source TESTENV.tcl
+
+
+
+****** Vivado v2022.2 (64-bit)
+  **** SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+  **** IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source TESTENV.tcl -notrace
+Command: read_checkpoint -auto_incremental -incremental C:/Users/Asus/Documents/AC/SPERCAMIPSFINAL/SPERCAMIPSFINAL.srcs/utils_1/imports/synth_1/TESTENV.dcp
+INFO: [Vivado 12-5825] Read reference checkpoint from C:/Users/Asus/Documents/AC/SPERCAMIPSFINAL/SPERCAMIPSFINAL.srcs/utils_1/imports/synth_1/TESTENV.dcp for incremental synthesis
+INFO: [Vivado 12-7989] Please ensure there are no constraint changes
+Command: synth_design -top TESTENV -part xc7a35tcpg236-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Device 21-403] Loading part xc7a35tcpg236-1
+INFO: [Designutils 20-5440] No compile time benefit to using incremental synthesis; A full resynthesis will be run
+INFO: [Designutils 20-4379] Flow is switching to default flow due to incremental criteria not met. If you would like to alter this behaviour and have the flow terminate instead, please set the following parameter config_implementation {autoIncr.Synth.RejectBehavior Terminate}
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 3808
+INFO: [Synth 8-11241] undeclared symbol 'REGCCE', assumed default net type 'wire' [C:/Xilinx/Vivado/2022.2/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v:2170]
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 1197.266 ; gain = 409.168
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'TESTENV' [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:17]
+INFO: [Synth 8-226] default block is never used [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:148]
+WARNING: [Synth 8-614] signal 'outMux8' is read in the process but is not in the sensitivity list [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:162]
+INFO: [Synth 8-3491] module 'MPG' declared at 'C:/Users/Asus/Documents/AC/MPG.vhd:14' bound to instance 'monopulse' of component 'MPG' [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:185]
+INFO: [Synth 8-638] synthesizing module 'MPG' [C:/Users/Asus/Documents/AC/MPG.vhd:20]
+INFO: [Synth 8-256] done synthesizing module 'MPG' (0#1) [C:/Users/Asus/Documents/AC/MPG.vhd:20]
+INFO: [Synth 8-3491] module 'UnitDeExtrInstr' declared at 'C:/Users/Asus/Documents/AC/IFetch/lab5.srcs/sources_1/new/UnitDeExtrInstr.vhd:6' bound to instance 'IFetch' of component 'UnitDeExtrInstr' [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:186]
+INFO: [Synth 8-638] synthesizing module 'UnitDeExtrInstr' [C:/Users/Asus/Documents/AC/IFetch/lab5.srcs/sources_1/new/UnitDeExtrInstr.vhd:19]
+INFO: [Synth 8-256] done synthesizing module 'UnitDeExtrInstr' (0#1) [C:/Users/Asus/Documents/AC/IFetch/lab5.srcs/sources_1/new/UnitDeExtrInstr.vhd:19]
+INFO: [Synth 8-3491] module 'UC' declared at 'C:/Users/Asus/Documents/AC/UC/UC.srcs/sources_1/new/UC.vhd:16' bound to instance 'UnitdeContr' of component 'UC' [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:187]
+INFO: [Synth 8-638] synthesizing module 'UC' [C:/Users/Asus/Documents/AC/UC/UC.srcs/sources_1/new/UC.vhd:31]
+INFO: [Synth 8-256] done synthesizing module 'UC' (0#1) [C:/Users/Asus/Documents/AC/UC/UC.srcs/sources_1/new/UC.vhd:31]
+INFO: [Synth 8-3491] module 'InstructionDecode' declared at 'C:/Users/Asus/Documents/AC/InstructionDecode/lab6.srcs/sources_1/new/InstructionDecode.vhd:6' bound to instance 'ID' of component 'InstructionDecode' [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:188]
+INFO: [Synth 8-638] synthesizing module 'InstructionDecode' [C:/Users/Asus/Documents/AC/InstructionDecode/lab6.srcs/sources_1/new/InstructionDecode.vhd:23]
+WARNING: [Synth 8-614] signal 'instrRD' is read in the process but is not in the sensitivity list [C:/Users/Asus/Documents/AC/InstructionDecode/lab6.srcs/sources_1/new/InstructionDecode.vhd:34]
+WARNING: [Synth 8-614] signal 'instrRT' is read in the process but is not in the sensitivity list [C:/Users/Asus/Documents/AC/InstructionDecode/lab6.srcs/sources_1/new/InstructionDecode.vhd:34]
+INFO: [Synth 8-256] done synthesizing module 'InstructionDecode' (0#1) [C:/Users/Asus/Documents/AC/InstructionDecode/lab6.srcs/sources_1/new/InstructionDecode.vhd:23]
+INFO: [Synth 8-3491] module 'InstructionExecute' declared at 'C:/Users/Asus/Documents/AC/InstructionExecute/InstructionExecute.srcs/sources_1/new/InstructionExecute.vhd:6' bound to instance 'Ex' of component 'InstructionExecute' [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:189]
+INFO: [Synth 8-638] synthesizing module 'InstructionExecute' [C:/Users/Asus/Documents/AC/InstructionExecute/InstructionExecute.srcs/sources_1/new/InstructionExecute.vhd:22]
+INFO: [Synth 8-226] default block is never used [C:/Users/Asus/Documents/AC/InstructionExecute/InstructionExecute.srcs/sources_1/new/InstructionExecute.vhd:42]
+INFO: [Synth 8-256] done synthesizing module 'InstructionExecute' (0#1) [C:/Users/Asus/Documents/AC/InstructionExecute/InstructionExecute.srcs/sources_1/new/InstructionExecute.vhd:22]
+INFO: [Synth 8-3491] module 'SSD' declared at 'C:/Users/Asus/Documents/AC/SSD.vhd:7' bound to instance 'dispaly' of component 'SSD' [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:190]
+INFO: [Synth 8-638] synthesizing module 'SSD' [C:/Users/Asus/Documents/AC/SSD.vhd:14]
+INFO: [Synth 8-226] default block is never used [C:/Users/Asus/Documents/AC/SSD.vhd:33]
+INFO: [Synth 8-226] default block is never used [C:/Users/Asus/Documents/AC/SSD.vhd:44]
+INFO: [Synth 8-226] default block is never used [C:/Users/Asus/Documents/AC/SSD.vhd:53]
+INFO: [Synth 8-256] done synthesizing module 'SSD' (0#1) [C:/Users/Asus/Documents/AC/SSD.vhd:14]
+INFO: [Synth 8-3491] module 'MEM' declared at 'C:/Users/Asus/Documents/AC/MEM/MEM.srcs/sources_1/new/MEM.vhd:6' bound to instance 'memorie' of component 'MEM' [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:191]
+INFO: [Synth 8-638] synthesizing module 'MEM' [C:/Users/Asus/Documents/AC/MEM/MEM.srcs/sources_1/new/MEM.vhd:18]
+INFO: [Synth 8-256] done synthesizing module 'MEM' (0#1) [C:/Users/Asus/Documents/AC/MEM/MEM.srcs/sources_1/new/MEM.vhd:18]
+INFO: [Synth 8-256] done synthesizing module 'TESTENV' (0#1) [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:17]
+WARNING: [Synth 8-3848] Net led in module/entity TESTENV does not have driver. [C:/Users/Asus/Documents/AC/TESTENV/TESTENV.srcs/sources_1/new/TESTENV.vhd:11]
+WARNING: [Synth 8-7129] Port En in module MEM is either unconnected or has no load
+WARNING: [Synth 8-7129] Port Instr[25] in module InstructionDecode is either unconnected or has no load
+WARNING: [Synth 8-7129] Port Instr[24] in module InstructionDecode is either unconnected or has no load
+WARNING: [Synth 8-7129] Port Instr[23] in module InstructionDecode is either unconnected or has no load
+WARNING: [Synth 8-7129] Port Instr[22] in module InstructionDecode is either unconnected or has no load
+WARNING: [Synth 8-7129] Port Instr[21] in module InstructionDecode is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[15] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[14] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[13] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[12] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[11] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[10] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[9] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[8] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[7] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[6] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[5] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[4] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[3] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[2] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[1] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[0] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port btn[4] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port btn[3] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port btn[2] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[15] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[14] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[13] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[12] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[11] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[10] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[9] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[8] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[4] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[3] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[2] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[1] in module TESTENV is either unconnected or has no load
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1288.141 ; gain = 500.043
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1288.141 ; gain = 500.043
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1288.141 ; gain = 500.043
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.009 . Memory (MB): peak = 1288.141 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [C:/Users/Asus/Downloads/Basys-3-Master.xdc]
+Finished Parsing XDC File [C:/Users/Asus/Downloads/Basys-3-Master.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [C:/Users/Asus/Downloads/Basys-3-Master.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/TESTENV_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/TESTENV_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1337.941 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.002 . Memory (MB): peak = 1337.941 ; gain = 0.000
+INFO: [Designutils 20-5440] No compile time benefit to using incremental synthesis; A full resynthesis will be run
+INFO: [Designutils 20-4379] Flow is switching to default flow due to incremental criteria not met. If you would like to alter this behaviour and have the flow terminate instead, please set the following parameter config_implementation {autoIncr.Synth.RejectBehavior Terminate}
+INFO: [Synth 8-11241] undeclared symbol 'REGCCE', assumed default net type 'wire' [C:/Xilinx/Vivado/2022.2/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v:2170]
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:11 ; elapsed = 00:00:11 . Memory (MB): peak = 1337.941 ; gain = 549.844
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a35tcpg236-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:11 ; elapsed = 00:00:11 . Memory (MB): peak = 1337.941 ; gain = 549.844
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:11 ; elapsed = 00:00:11 . Memory (MB): peak = 1337.941 ; gain = 549.844
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:11 ; elapsed = 00:00:11 . Memory (MB): peak = 1337.941 ; gain = 549.844
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input   32 Bit       Adders := 2     
+	   3 Input   32 Bit       Adders := 1     
++---Registers : 
+	               32 Bit    Registers := 1     
+	                1 Bit    Registers := 3     
++---RAMs : 
+	             1024 Bit	(32 X 32 bit)          RAMs := 1     
++---Muxes : 
+	   2 Input   32 Bit        Muxes := 4     
+	  33 Input   32 Bit        Muxes := 1     
+	   6 Input   32 Bit        Muxes := 2     
+	   2 Input   16 Bit        Muxes := 2     
+	   2 Input    5 Bit        Muxes := 1     
+	   4 Input    4 Bit        Muxes := 2     
+	  11 Input    3 Bit        Muxes := 1     
+	   9 Input    2 Bit        Muxes := 1     
+	   9 Input    1 Bit        Muxes := 8     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 90 (col length:60)
+BRAMs: 100 (col length: RAMB18 60 RAMB36 30)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+WARNING: [Synth 8-7129] Port led[15] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[14] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[13] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[12] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[11] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[10] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[9] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[8] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[7] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[6] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[5] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[4] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[3] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[2] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[1] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port led[0] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port btn[4] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port btn[3] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port btn[2] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[15] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[14] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[13] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[12] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[11] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[10] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[9] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[8] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[4] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[3] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[2] in module TESTENV is either unconnected or has no load
+WARNING: [Synth 8-7129] Port sw[1] in module TESTENV is either unconnected or has no load
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:14 ; elapsed = 00:00:14 . Memory (MB): peak = 1337.941 ; gain = 549.844
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+Distributed RAM: Preliminary Mapping Report (see note below)
++------------+-----------------+-----------+----------------------+----------------+
+|Module Name | RTL Object      | Inference | Size (Depth x Width) | Primitives     | 
++------------+-----------------+-----------+----------------------+----------------+
+|TESTENV     | memorie/MEM_reg | Implied   | 64 x 32              | RAM64X1S x 32  | 
+|TESTENV     | ID/rf_reg       | Implied   | 32 x 32              | RAM32M x 12    | 
++------------+-----------------+-----------+----------------------+----------------+
+
+Note: The table above is a preliminary report that shows the Distributed RAMs at the current stage of the synthesis flow. Some Distributed RAMs may be reimplemented as non Distributed RAM primitives later in the synthesis flow. Multiple instantiated RAMs are reported only once.
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:18 ; elapsed = 00:00:18 . Memory (MB): peak = 1337.941 ; gain = 549.844
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:21 ; elapsed = 00:00:21 . Memory (MB): peak = 1365.820 ; gain = 577.723
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+Distributed RAM: Final Mapping Report
++------------+-----------------+-----------+----------------------+----------------+
+|Module Name | RTL Object      | Inference | Size (Depth x Width) | Primitives     | 
++------------+-----------------+-----------+----------------------+----------------+
+|TESTENV     | memorie/MEM_reg | Implied   | 64 x 32              | RAM64X1S x 32  | 
+|TESTENV     | ID/rf_reg       | Implied   | 32 x 32              | RAM32M x 12    | 
++------------+-----------------+-----------+----------------------+----------------+
+
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:21 ; elapsed = 00:00:21 . Memory (MB): peak = 1366.883 ; gain = 578.785
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:25 ; elapsed = 00:00:25 . Memory (MB): peak = 1366.883 ; gain = 578.785
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:25 ; elapsed = 00:00:25 . Memory (MB): peak = 1366.883 ; gain = 578.785
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1366.883 ; gain = 578.785
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1366.883 ; gain = 578.785
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1366.883 ; gain = 578.785
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1366.883 ; gain = 578.785
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+---------+------+
+|      |Cell     |Count |
++------+---------+------+
+|1     |BUFG     |     1|
+|2     |CARRY4   |    34|
+|3     |LUT1     |     3|
+|4     |LUT2     |     6|
+|5     |LUT3     |    34|
+|6     |LUT4     |    14|
+|7     |LUT5     |    82|
+|8     |LUT6     |   132|
+|9     |MUXF7    |    32|
+|10    |MUXF8    |    16|
+|11    |RAM32M   |    10|
+|12    |RAM32X1D |     4|
+|13    |RAM64X1S |    32|
+|14    |FDCE     |    30|
+|15    |FDRE     |    38|
+|16    |IBUF     |     7|
+|17    |OBUF     |    11|
+|18    |OBUFT    |    16|
++------+---------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1366.883 ; gain = 578.785
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 32 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:18 ; elapsed = 00:00:24 . Memory (MB): peak = 1366.883 ; gain = 528.984
+Synthesis Optimization Complete : Time (s): cpu = 00:00:25 ; elapsed = 00:00:26 . Memory (MB): peak = 1366.883 ; gain = 578.785
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.012 . Memory (MB): peak = 1373.133 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 128 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1376.805 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 46 instances were transformed.
+  RAM32M => RAM32M (RAMD32(x6), RAMS32(x2)): 10 instances
+  RAM32X1D => RAM32X1D (RAMD32(x2)): 4 instances
+  RAM64X1S => RAM64X1S (RAMS64E): 32 instances
+
+Synth Design complete, checksum: 67b127e0
+INFO: [Common 17-83] Releasing license: Synthesis
+51 Infos, 73 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:29 ; elapsed = 00:00:31 . Memory (MB): peak = 1376.805 ; gain = 966.234
+INFO: [Common 17-1381] The checkpoint 'C:/Users/Asus/Documents/AC/SPERCAMIPSFINAL/SPERCAMIPSFINAL.runs/synth_1/TESTENV.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file TESTENV_utilization_synth.rpt -pb TESTENV_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Tue Apr 23 21:27:37 2024...

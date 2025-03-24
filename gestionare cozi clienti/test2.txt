@@ -1,0 +1,567 @@
+Time: 0
+Waiting line :
+Task{ id= 38, arrivalTime=3, serviceTime=3}, Task{ id= 20, arrivalTime=4, serviceTime=2}, Task{ id= 18, arrivalTime=5, serviceTime=3}, Task{ id= 44, arrivalTime=5, serviceTime=3}, Task{ id= 1, arrivalTime=8, serviceTime=4}, Task{ id= 26, arrivalTime=8, serviceTime=3}, Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1:
+Queue 2:
+Queue 3:
+Queue 4:
+Queue 5:
+
+Time: 1
+Waiting line :
+Task{ id= 38, arrivalTime=3, serviceTime=3}, Task{ id= 20, arrivalTime=4, serviceTime=2}, Task{ id= 18, arrivalTime=5, serviceTime=3}, Task{ id= 44, arrivalTime=5, serviceTime=3}, Task{ id= 1, arrivalTime=8, serviceTime=4}, Task{ id= 26, arrivalTime=8, serviceTime=3}, Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1:
+Queue 2:
+Queue 3:
+Queue 4:
+Queue 5:
+
+Time: 2
+Waiting line :
+Task{ id= 38, arrivalTime=3, serviceTime=3}, Task{ id= 20, arrivalTime=4, serviceTime=2}, Task{ id= 18, arrivalTime=5, serviceTime=3}, Task{ id= 44, arrivalTime=5, serviceTime=3}, Task{ id= 1, arrivalTime=8, serviceTime=4}, Task{ id= 26, arrivalTime=8, serviceTime=3}, Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1:
+Queue 2:
+Queue 3:
+Queue 4:
+Queue 5:
+
+Time: 3
+Waiting line :
+Task{ id= 20, arrivalTime=4, serviceTime=2}, Task{ id= 18, arrivalTime=5, serviceTime=3}, Task{ id= 44, arrivalTime=5, serviceTime=3}, Task{ id= 1, arrivalTime=8, serviceTime=4}, Task{ id= 26, arrivalTime=8, serviceTime=3}, Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 38, arrivalTime=3, serviceTime=3}
+
+Queue 2:
+Queue 3:
+Queue 4:
+Queue 5:
+
+Time: 4
+Waiting line :
+Task{ id= 18, arrivalTime=5, serviceTime=3}, Task{ id= 44, arrivalTime=5, serviceTime=3}, Task{ id= 1, arrivalTime=8, serviceTime=4}, Task{ id= 26, arrivalTime=8, serviceTime=3}, Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 38, arrivalTime=3, serviceTime=2}
+
+Queue 2: Task{ id= 20, arrivalTime=4, serviceTime=2}
+
+Queue 3:
+Queue 4:
+Queue 5:
+
+Time: 5
+Waiting line :
+Task{ id= 1, arrivalTime=8, serviceTime=4}, Task{ id= 26, arrivalTime=8, serviceTime=3}, Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 38, arrivalTime=3, serviceTime=1}
+
+Queue 2: Task{ id= 20, arrivalTime=4, serviceTime=1}
+
+Queue 3: Task{ id= 18, arrivalTime=5, serviceTime=3}
+
+Queue 4: Task{ id= 44, arrivalTime=5, serviceTime=3}
+
+Queue 5:
+
+Time: 6
+Waiting line :
+Task{ id= 1, arrivalTime=8, serviceTime=4}, Task{ id= 26, arrivalTime=8, serviceTime=3}, Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1:
+Queue 2:
+Queue 3: Task{ id= 18, arrivalTime=5, serviceTime=2}
+
+Queue 4: Task{ id= 44, arrivalTime=5, serviceTime=2}
+
+Queue 5:
+
+Time: 7
+Waiting line :
+Task{ id= 1, arrivalTime=8, serviceTime=4}, Task{ id= 26, arrivalTime=8, serviceTime=3}, Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1:
+Queue 2:
+Queue 3: Task{ id= 18, arrivalTime=5, serviceTime=1}
+
+Queue 4: Task{ id= 44, arrivalTime=5, serviceTime=1}
+
+Queue 5:
+
+Time: 8
+Waiting line :
+Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 1, arrivalTime=8, serviceTime=4}
+
+Queue 2: Task{ id= 26, arrivalTime=8, serviceTime=3}
+
+Queue 3:
+Queue 4:
+Queue 5:
+
+Time: 9
+Waiting line :
+Task{ id= 48, arrivalTime=10, serviceTime=4}, Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 1, arrivalTime=8, serviceTime=3}
+
+Queue 2: Task{ id= 26, arrivalTime=8, serviceTime=2}
+
+Queue 3:
+Queue 4:
+Queue 5:
+
+Time: 10
+Waiting line :
+Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 1, arrivalTime=8, serviceTime=2}
+
+Queue 2: Task{ id= 26, arrivalTime=8, serviceTime=1}
+
+Queue 3: Task{ id= 48, arrivalTime=10, serviceTime=4}
+
+Queue 4:
+Queue 5:
+
+Time: 11
+Waiting line :
+Task{ id= 37, arrivalTime=12, serviceTime=1}, Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 1, arrivalTime=8, serviceTime=1}
+
+Queue 2:
+Queue 3: Task{ id= 48, arrivalTime=10, serviceTime=3}
+
+Queue 4:
+Queue 5:
+
+Time: 12
+Waiting line :
+Task{ id= 31, arrivalTime=13, serviceTime=3}, Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 37, arrivalTime=12, serviceTime=1}
+
+Queue 2:
+Queue 3: Task{ id= 48, arrivalTime=10, serviceTime=2}
+
+Queue 4:
+Queue 5:
+
+Time: 13
+Waiting line :
+Task{ id= 24, arrivalTime=14, serviceTime=4}, Task{ id= 27, arrivalTime=14, serviceTime=3}, Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 31, arrivalTime=13, serviceTime=3}
+
+Queue 2:
+Queue 3: Task{ id= 48, arrivalTime=10, serviceTime=1}
+
+Queue 4:
+Queue 5:
+
+Time: 14
+Waiting line :
+Task{ id= 19, arrivalTime=15, serviceTime=4}, Task{ id= 29, arrivalTime=15, serviceTime=6}, Task{ id= 46, arrivalTime=15, serviceTime=1}, Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 31, arrivalTime=13, serviceTime=2}
+
+Queue 2: Task{ id= 24, arrivalTime=14, serviceTime=4}
+
+Queue 3: Task{ id= 27, arrivalTime=14, serviceTime=3}
+
+Queue 4:
+Queue 5:
+
+Time: 15
+Waiting line :
+Task{ id= 3, arrivalTime=16, serviceTime=4}, Task{ id= 40, arrivalTime=16, serviceTime=5}, Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 31, arrivalTime=13, serviceTime=1}
+Task{ id= 46, arrivalTime=15, serviceTime=1}
+
+Queue 2: Task{ id= 24, arrivalTime=14, serviceTime=3}
+
+Queue 3: Task{ id= 27, arrivalTime=14, serviceTime=2}
+
+Queue 4: Task{ id= 19, arrivalTime=15, serviceTime=4}
+
+Queue 5: Task{ id= 29, arrivalTime=15, serviceTime=6}
+
+
+Time: 16
+Waiting line :
+Task{ id= 2, arrivalTime=17, serviceTime=5}, Task{ id= 35, arrivalTime=17, serviceTime=3}, Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 46, arrivalTime=15, serviceTime=1}
+Task{ id= 3, arrivalTime=16, serviceTime=4}
+
+Queue 2: Task{ id= 24, arrivalTime=14, serviceTime=2}
+
+Queue 3: Task{ id= 27, arrivalTime=14, serviceTime=1}
+Task{ id= 40, arrivalTime=16, serviceTime=5}
+
+Queue 4: Task{ id= 19, arrivalTime=15, serviceTime=3}
+
+Queue 5: Task{ id= 29, arrivalTime=15, serviceTime=5}
+
+
+Time: 17
+Waiting line :
+Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 3, arrivalTime=16, serviceTime=4}
+
+Queue 2: Task{ id= 24, arrivalTime=14, serviceTime=1}
+Task{ id= 2, arrivalTime=17, serviceTime=5}
+
+Queue 3: Task{ id= 40, arrivalTime=16, serviceTime=5}
+
+Queue 4: Task{ id= 19, arrivalTime=15, serviceTime=2}
+Task{ id= 35, arrivalTime=17, serviceTime=3}
+
+Queue 5: Task{ id= 29, arrivalTime=15, serviceTime=4}
+
+
+Time: 18
+Waiting line :
+Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 3, arrivalTime=16, serviceTime=3}
+
+Queue 2: Task{ id= 2, arrivalTime=17, serviceTime=5}
+
+Queue 3: Task{ id= 40, arrivalTime=16, serviceTime=4}
+
+Queue 4: Task{ id= 19, arrivalTime=15, serviceTime=1}
+Task{ id= 35, arrivalTime=17, serviceTime=3}
+
+Queue 5: Task{ id= 29, arrivalTime=15, serviceTime=3}
+
+
+Time: 19
+Waiting line :
+Task{ id= 47, arrivalTime=20, serviceTime=2}, Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 3, arrivalTime=16, serviceTime=2}
+
+Queue 2: Task{ id= 2, arrivalTime=17, serviceTime=4}
+
+Queue 3: Task{ id= 40, arrivalTime=16, serviceTime=3}
+
+Queue 4: Task{ id= 35, arrivalTime=17, serviceTime=3}
+
+Queue 5: Task{ id= 29, arrivalTime=15, serviceTime=2}
+
+
+Time: 20
+Waiting line :
+Task{ id= 15, arrivalTime=21, serviceTime=5}, Task{ id= 41, arrivalTime=21, serviceTime=3}, Task{ id= 43, arrivalTime=21, serviceTime=2}, Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 3, arrivalTime=16, serviceTime=1}
+Task{ id= 47, arrivalTime=20, serviceTime=2}
+
+Queue 2: Task{ id= 2, arrivalTime=17, serviceTime=3}
+
+Queue 3: Task{ id= 40, arrivalTime=16, serviceTime=2}
+
+Queue 4: Task{ id= 35, arrivalTime=17, serviceTime=2}
+
+Queue 5: Task{ id= 29, arrivalTime=15, serviceTime=1}
+
+
+Time: 21
+Waiting line :
+Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 47, arrivalTime=20, serviceTime=2}
+
+Queue 2: Task{ id= 2, arrivalTime=17, serviceTime=2}
+
+Queue 3: Task{ id= 40, arrivalTime=16, serviceTime=1}
+Task{ id= 41, arrivalTime=21, serviceTime=3}
+
+Queue 4: Task{ id= 35, arrivalTime=17, serviceTime=1}
+Task{ id= 43, arrivalTime=21, serviceTime=2}
+
+Queue 5: Task{ id= 15, arrivalTime=21, serviceTime=5}
+
+
+Time: 22
+Waiting line :
+Task{ id= 11, arrivalTime=23, serviceTime=6}, Task{ id= 14, arrivalTime=23, serviceTime=1}, Task{ id= 25, arrivalTime=23, serviceTime=6}, Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 47, arrivalTime=20, serviceTime=1}
+
+Queue 2: Task{ id= 2, arrivalTime=17, serviceTime=1}
+
+Queue 3: Task{ id= 41, arrivalTime=21, serviceTime=3}
+
+Queue 4: Task{ id= 43, arrivalTime=21, serviceTime=2}
+
+Queue 5: Task{ id= 15, arrivalTime=21, serviceTime=4}
+
+
+Time: 23
+Waiting line :
+Task{ id= 9, arrivalTime=24, serviceTime=2}, Task{ id= 34, arrivalTime=24, serviceTime=5}, Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 11, arrivalTime=23, serviceTime=6}
+
+Queue 2: Task{ id= 14, arrivalTime=23, serviceTime=1}
+Task{ id= 25, arrivalTime=23, serviceTime=6}
+
+Queue 3: Task{ id= 41, arrivalTime=21, serviceTime=2}
+
+Queue 4: Task{ id= 43, arrivalTime=21, serviceTime=1}
+
+Queue 5: Task{ id= 15, arrivalTime=21, serviceTime=3}
+
+
+Time: 24
+Waiting line :
+Task{ id= 12, arrivalTime=25, serviceTime=6}, Task{ id= 13, arrivalTime=25, serviceTime=1}, Task{ id= 49, arrivalTime=25, serviceTime=2}, Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 11, arrivalTime=23, serviceTime=5}
+
+Queue 2: Task{ id= 25, arrivalTime=23, serviceTime=6}
+
+Queue 3: Task{ id= 41, arrivalTime=21, serviceTime=1}
+Task{ id= 34, arrivalTime=24, serviceTime=5}
+
+Queue 4: Task{ id= 9, arrivalTime=24, serviceTime=2}
+
+Queue 5: Task{ id= 15, arrivalTime=21, serviceTime=2}
+
+
+Time: 25
+Waiting line :
+Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 11, arrivalTime=23, serviceTime=4}
+
+Queue 2: Task{ id= 25, arrivalTime=23, serviceTime=5}
+
+Queue 3: Task{ id= 34, arrivalTime=24, serviceTime=5}
+
+Queue 4: Task{ id= 9, arrivalTime=24, serviceTime=1}
+Task{ id= 12, arrivalTime=25, serviceTime=6}
+
+Queue 5: Task{ id= 15, arrivalTime=21, serviceTime=1}
+Task{ id= 13, arrivalTime=25, serviceTime=1}
+Task{ id= 49, arrivalTime=25, serviceTime=2}
+
+
+Time: 26
+Waiting line :
+Task{ id= 5, arrivalTime=27, serviceTime=6}, Task{ id= 10, arrivalTime=27, serviceTime=5}, Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 11, arrivalTime=23, serviceTime=3}
+
+Queue 2: Task{ id= 25, arrivalTime=23, serviceTime=4}
+
+Queue 3: Task{ id= 34, arrivalTime=24, serviceTime=4}
+
+Queue 4: Task{ id= 12, arrivalTime=25, serviceTime=6}
+
+Queue 5: Task{ id= 13, arrivalTime=25, serviceTime=1}
+Task{ id= 49, arrivalTime=25, serviceTime=2}
+
+
+Time: 27
+Waiting line :
+Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 11, arrivalTime=23, serviceTime=2}
+Task{ id= 10, arrivalTime=27, serviceTime=5}
+
+Queue 2: Task{ id= 25, arrivalTime=23, serviceTime=3}
+
+Queue 3: Task{ id= 34, arrivalTime=24, serviceTime=3}
+
+Queue 4: Task{ id= 12, arrivalTime=25, serviceTime=5}
+
+Queue 5: Task{ id= 49, arrivalTime=25, serviceTime=2}
+Task{ id= 5, arrivalTime=27, serviceTime=6}
+
+
+Time: 28
+Waiting line :
+Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 11, arrivalTime=23, serviceTime=1}
+Task{ id= 10, arrivalTime=27, serviceTime=5}
+
+Queue 2: Task{ id= 25, arrivalTime=23, serviceTime=2}
+
+Queue 3: Task{ id= 34, arrivalTime=24, serviceTime=2}
+
+Queue 4: Task{ id= 12, arrivalTime=25, serviceTime=4}
+
+Queue 5: Task{ id= 49, arrivalTime=25, serviceTime=1}
+Task{ id= 5, arrivalTime=27, serviceTime=6}
+
+
+Time: 29
+Waiting line :
+Task{ id= 16, arrivalTime=30, serviceTime=6}, Task{ id= 45, arrivalTime=30, serviceTime=6}, Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 10, arrivalTime=27, serviceTime=5}
+
+Queue 2: Task{ id= 25, arrivalTime=23, serviceTime=1}
+
+Queue 3: Task{ id= 34, arrivalTime=24, serviceTime=1}
+
+Queue 4: Task{ id= 12, arrivalTime=25, serviceTime=3}
+
+Queue 5: Task{ id= 5, arrivalTime=27, serviceTime=6}
+
+
+Time: 30
+Waiting line :
+Task{ id= 28, arrivalTime=31, serviceTime=4}, Task{ id= 32, arrivalTime=31, serviceTime=1}, Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 10, arrivalTime=27, serviceTime=4}
+
+Queue 2: Task{ id= 16, arrivalTime=30, serviceTime=6}
+
+Queue 3: Task{ id= 45, arrivalTime=30, serviceTime=6}
+
+Queue 4: Task{ id= 12, arrivalTime=25, serviceTime=2}
+
+Queue 5: Task{ id= 5, arrivalTime=27, serviceTime=5}
+
+
+Time: 31
+Waiting line :
+Task{ id= 50, arrivalTime=32, serviceTime=4}, Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 10, arrivalTime=27, serviceTime=3}
+Task{ id= 32, arrivalTime=31, serviceTime=1}
+
+Queue 2: Task{ id= 16, arrivalTime=30, serviceTime=5}
+
+Queue 3: Task{ id= 45, arrivalTime=30, serviceTime=5}
+
+Queue 4: Task{ id= 12, arrivalTime=25, serviceTime=1}
+Task{ id= 28, arrivalTime=31, serviceTime=4}
+
+Queue 5: Task{ id= 5, arrivalTime=27, serviceTime=4}
+
+
+Time: 32
+Waiting line :
+Task{ id= 4, arrivalTime=33, serviceTime=1}, Task{ id= 6, arrivalTime=33, serviceTime=2}, Task{ id= 17, arrivalTime=33, serviceTime=2}, Task{ id= 23, arrivalTime=33, serviceTime=1}, Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 10, arrivalTime=27, serviceTime=2}
+Task{ id= 32, arrivalTime=31, serviceTime=1}
+Task{ id= 50, arrivalTime=32, serviceTime=4}
+
+Queue 2: Task{ id= 16, arrivalTime=30, serviceTime=4}
+
+Queue 3: Task{ id= 45, arrivalTime=30, serviceTime=4}
+
+Queue 4: Task{ id= 28, arrivalTime=31, serviceTime=4}
+
+Queue 5: Task{ id= 5, arrivalTime=27, serviceTime=3}
+
+
+Time: 33
+Waiting line :
+Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 10, arrivalTime=27, serviceTime=1}
+Task{ id= 32, arrivalTime=31, serviceTime=1}
+Task{ id= 50, arrivalTime=32, serviceTime=4}
+
+Queue 2: Task{ id= 16, arrivalTime=30, serviceTime=3}
+Task{ id= 6, arrivalTime=33, serviceTime=2}
+
+Queue 3: Task{ id= 45, arrivalTime=30, serviceTime=3}
+Task{ id= 17, arrivalTime=33, serviceTime=2}
+
+Queue 4: Task{ id= 28, arrivalTime=31, serviceTime=3}
+Task{ id= 23, arrivalTime=33, serviceTime=1}
+
+Queue 5: Task{ id= 5, arrivalTime=27, serviceTime=2}
+Task{ id= 4, arrivalTime=33, serviceTime=1}
+
+
+Time: 34
+Waiting line :
+Task{ id= 22, arrivalTime=35, serviceTime=1}, Task{ id= 30, arrivalTime=35, serviceTime=5}, Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 32, arrivalTime=31, serviceTime=1}
+Task{ id= 50, arrivalTime=32, serviceTime=4}
+
+Queue 2: Task{ id= 16, arrivalTime=30, serviceTime=2}
+Task{ id= 6, arrivalTime=33, serviceTime=2}
+
+Queue 3: Task{ id= 45, arrivalTime=30, serviceTime=2}
+Task{ id= 17, arrivalTime=33, serviceTime=2}
+
+Queue 4: Task{ id= 28, arrivalTime=31, serviceTime=2}
+Task{ id= 23, arrivalTime=33, serviceTime=1}
+
+Queue 5: Task{ id= 5, arrivalTime=27, serviceTime=1}
+Task{ id= 4, arrivalTime=33, serviceTime=1}
+
+
+Time: 35
+Waiting line :
+Task{ id= 8, arrivalTime=36, serviceTime=5}, Task{ id= 36, arrivalTime=36, serviceTime=3}, Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 50, arrivalTime=32, serviceTime=4}
+
+Queue 2: Task{ id= 16, arrivalTime=30, serviceTime=1}
+Task{ id= 6, arrivalTime=33, serviceTime=2}
+
+Queue 3: Task{ id= 45, arrivalTime=30, serviceTime=1}
+Task{ id= 17, arrivalTime=33, serviceTime=2}
+
+Queue 4: Task{ id= 28, arrivalTime=31, serviceTime=1}
+Task{ id= 23, arrivalTime=33, serviceTime=1}
+Task{ id= 30, arrivalTime=35, serviceTime=5}
+
+Queue 5: Task{ id= 4, arrivalTime=33, serviceTime=1}
+Task{ id= 22, arrivalTime=35, serviceTime=1}
+
+
+Time: 36
+Waiting line :
+Task{ id= 7, arrivalTime=37, serviceTime=3}, Task{ id= 21, arrivalTime=37, serviceTime=6}, Task{ id= 39, arrivalTime=37, serviceTime=3}, Task{ id= 42, arrivalTime=37, serviceTime=4}, Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 50, arrivalTime=32, serviceTime=3}
+
+Queue 2: Task{ id= 6, arrivalTime=33, serviceTime=2}
+Task{ id= 36, arrivalTime=36, serviceTime=3}
+
+Queue 3: Task{ id= 17, arrivalTime=33, serviceTime=2}
+
+Queue 4: Task{ id= 23, arrivalTime=33, serviceTime=1}
+Task{ id= 30, arrivalTime=35, serviceTime=5}
+
+Queue 5: Task{ id= 22, arrivalTime=35, serviceTime=1}
+Task{ id= 8, arrivalTime=36, serviceTime=5}
+
+
+Time: 37
+Waiting line :
+Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 50, arrivalTime=32, serviceTime=2}
+Task{ id= 21, arrivalTime=37, serviceTime=6}
+
+Queue 2: Task{ id= 6, arrivalTime=33, serviceTime=1}
+Task{ id= 36, arrivalTime=36, serviceTime=3}
+Task{ id= 39, arrivalTime=37, serviceTime=3}
+
+Queue 3: Task{ id= 17, arrivalTime=33, serviceTime=1}
+Task{ id= 7, arrivalTime=37, serviceTime=3}
+Task{ id= 42, arrivalTime=37, serviceTime=4}
+
+Queue 4: Task{ id= 30, arrivalTime=35, serviceTime=5}
+
+Queue 5: Task{ id= 8, arrivalTime=36, serviceTime=5}
+
+
+Time: 38
+Waiting line :
+Task{ id= 33, arrivalTime=39, serviceTime=6},
+Queue 1: Task{ id= 50, arrivalTime=32, serviceTime=1}
+Task{ id= 21, arrivalTime=37, serviceTime=6}
+
+Queue 2: Task{ id= 36, arrivalTime=36, serviceTime=3}
+Task{ id= 39, arrivalTime=37, serviceTime=3}
+
+Queue 3: Task{ id= 7, arrivalTime=37, serviceTime=3}
+Task{ id= 42, arrivalTime=37, serviceTime=4}
+
+Queue 4: Task{ id= 30, arrivalTime=35, serviceTime=4}
+
+Queue 5: Task{ id= 8, arrivalTime=36, serviceTime=4}
+
+
+Time: 39
+Waiting line :
+
+Queue 1: Task{ id= 21, arrivalTime=37, serviceTime=6}
+
+Queue 2: Task{ id= 36, arrivalTime=36, serviceTime=2}
+Task{ id= 39, arrivalTime=37, serviceTime=3}
+
+Queue 3: Task{ id= 7, arrivalTime=37, serviceTime=2}
+Task{ id= 42, arrivalTime=37, serviceTime=4}
+
+Queue 4: Task{ id= 30, arrivalTime=35, serviceTime=3}
+Task{ id= 33, arrivalTime=39, serviceTime=6}
+
+Queue 5: Task{ id= 8, arrivalTime=36, serviceTime=3}
+
+
+Time expired
+

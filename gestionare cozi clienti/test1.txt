@@ -1,0 +1,161 @@
+Time: 0
+Waiting line :
+Task{ id= 1, arrivalTime=2, serviceTime=2}, Task{ id= 4, arrivalTime=6, serviceTime=3}, Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 1
+Waiting line :
+Task{ id= 1, arrivalTime=2, serviceTime=2}, Task{ id= 4, arrivalTime=6, serviceTime=3}, Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 2
+Waiting line :
+Task{ id= 4, arrivalTime=6, serviceTime=3}, Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1: Task{ id= 1, arrivalTime=2, serviceTime=2}
+
+Queue 2:
+
+Time: 3
+Waiting line :
+Task{ id= 4, arrivalTime=6, serviceTime=3}, Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1: Task{ id= 1, arrivalTime=2, serviceTime=1}
+
+Queue 2:
+
+Time: 4
+Waiting line :
+Task{ id= 4, arrivalTime=6, serviceTime=3}, Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 5
+Waiting line :
+Task{ id= 4, arrivalTime=6, serviceTime=3}, Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 6
+Waiting line :
+Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1: Task{ id= 4, arrivalTime=6, serviceTime=3}
+
+Queue 2:
+
+Time: 7
+Waiting line :
+Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1: Task{ id= 4, arrivalTime=6, serviceTime=2}
+
+Queue 2:
+
+Time: 8
+Waiting line :
+Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1: Task{ id= 4, arrivalTime=6, serviceTime=1}
+
+Queue 2:
+
+Time: 9
+Waiting line :
+Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 10
+Waiting line :
+Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 11
+Waiting line :
+Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 12
+Waiting line :
+Task{ id= 2, arrivalTime=13, serviceTime=3}, Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 13
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1: Task{ id= 2, arrivalTime=13, serviceTime=3}
+
+Queue 2:
+
+Time: 14
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1: Task{ id= 2, arrivalTime=13, serviceTime=2}
+
+Queue 2:
+
+Time: 15
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1: Task{ id= 2, arrivalTime=13, serviceTime=1}
+
+Queue 2:
+
+Time: 16
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 17
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 18
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 19
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 20
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 21
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 22
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 23
+Waiting line :
+Task{ id= 3, arrivalTime=24, serviceTime=2},
+Queue 1:
+Queue 2:
+
+Time: 24
+Waiting line :
+
+Queue 1: Task{ id= 3, arrivalTime=24, serviceTime=2}
+
+Queue 2:
+
+Time expired
+

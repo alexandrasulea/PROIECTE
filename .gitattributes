@@ -1,0 +1,5 @@
+/Users/Asus/Proiecte/PROIECTE filter=lfs diff=lfs merge=lfs -text
+Prelucrare[[:space:]]grafica/SuleaAlexandra.app/.vs/lab9/v17/ipch/AutoPCH/*.ipch filter=lfs diff=lfs merge=lfs -text
+Prelucrare[[:space:]]grafica/SuleaAlexandra.app/lab9/objects/obj/casa.obj filter=lfs diff=lfs merge=lfs -text
+*.ipch filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
